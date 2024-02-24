@@ -4,14 +4,20 @@ Onbordio is a platform facilitating HR and manager communication by enabling the
 Onbordio Project
 Onbordio is a project built with React.js and Firebase. It provides a platform for managers and HR to easily send emails to new employees in just a few clicks.
 
-Features
-Google authentication for user login
-Firestore to store user emails and subjects
-Add new emails
-Edit existing emails
-Send emails using nodemailer
-Utilizes React Icons for a better user interface
-Setup Instructions
+
+
+#Features
+ -Google authentication for user login
+
+ -Firestore to store user emails and subjects
+ 
+ -Add new emails
+ 
+ -Edit existing emails
+ 
+ -Send emails using nodemailer
+ 
+#Setup Instructions
 Clone the repository:
 
 git clone https://github.com/Highscale-Tech/Hajer-onbordio
