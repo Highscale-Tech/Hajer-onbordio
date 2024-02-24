@@ -14,7 +14,7 @@ Utilizes React Icons for a better user interface
 Setup Instructions
 Clone the repository:
 
-git clone https://github.com/your-username/onbordio.git
+git clone https://github.com/Highscale-Tech/Hajer-onbordio
 Change directory to the project folder:
 
 cd onbordio
